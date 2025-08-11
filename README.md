@@ -125,6 +125,13 @@ vendor-performance-analysis/
 - Clear unsold inventory strategically  
 - Boost marketing for underperforming vendors
 
+## Author & Contact
+
+**Monalika Ghosh**  
+*Data Analyst*  
+
+📧 Email: [ghoshmonalika290@gmail.com](mailto:ghoshmonalika290@gmail.com)  
+🔗 LinkedIn: [www.linkedin.com/in/monalika-ghosh](https://www.linkedin.com/in/monalika-ghosh)
 
 
 
