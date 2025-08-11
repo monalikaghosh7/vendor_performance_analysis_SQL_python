@@ -56,19 +56,14 @@ vendor-performance-analysis/
 │
 ├── README.md
 ├── Vendor Analysis Project.pptx
-│
-├── notebooks/
-│ ├── exploratory_data_analysis.ipynb
-│ ├── vendor_performance_analysis.ipynb
-│
-├── scripts/
-│ ├── ingestion_db.py
-│ └── get_vendor_summary.py
-│
-└── data/
+├── exploratory_data_analysis.ipynb
+├── vendor_performance_analysis.ipynb
+├── ingestion_db.py
+│   └── get_vendor_summary.py
 ├── sales.csv
 ├── vendors.csv
 └── inventory.csv
+
 
 ---
 
@@ -112,26 +107,23 @@ vendor-performance-analysis/
 ---
 
 ## How to Run This Project
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/yourusername/vendor-performance-analysis.git
-   
-1.**Load CSVs into the database**
-ingestion_db.py
+1. Load CSVs into the database by running [`ingestion_db.py`](./ingestion_db.py)
 
-2.**Generate vendor summary**
-get_vendor_summary.py
+2. Generate vendor summary using [`get_vendor_summary.py`](./get_vendor_summary.py)
 
-3.**Run the notebooks**
-exploratory_data_analysis.ipynb
-vendor_performance_analysis.ipynb
+3. Run the notebooks:
+   - [`exploratory_data_analysis.ipynb`](./exploratory_data_analysis.ipynb)
+   - [`vendor_performance_analysis.ipynb`](./vendor_performance_analysis.ipynb)
+
 
 ## Final Recommendations
--Diversify vendor base to reduce risk
--Optimize bulk order strategies
--Reprice slow-moving, high-margin brands
--Clear unsold inventory strategically
--Boost marketing for underperforming vendors
+
+- Diversify vendor base to reduce risk  
+- Optimize bulk order strategies  
+- Reprice slow-moving, high-margin brands  
+- Clear unsold inventory strategically  
+- Boost marketing for underperforming vendors
+
 
 
 
