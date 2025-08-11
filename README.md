@@ -112,8 +112,9 @@ vendor-performance-analysis/
 2. Generate vendor summary using [`get_vendor_summary-checkpoint.py`](./get_vendor_summary-checkpoint.py)
 
 3. Run the notebooks:
-   - [`Exploratory Data Analysis-checkpoint.ipynb`](./Exploratory Data Analysis-checkpoint.ipynb)
-   - [`Vendor Performance Analysis-checkpoint.ipynb`](./Vendor Performance Analysis-checkpoint.ipynb)
+   [Exploratory Data Analysis-checkpoint.ipynb](./Exploratory%20Data%20Analysis-checkpoint.ipynb)  
+   [Vendor Performance Analysis-checkpoint.ipynb](./Vendor%20Performance%20Analysis-checkpoint.ipynb)
+
 
 
 ## Final Recommendations
