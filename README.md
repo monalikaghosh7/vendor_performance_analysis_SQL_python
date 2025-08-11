@@ -107,13 +107,13 @@ vendor-performance-analysis/
 ---
 
 ## How to Run This Project
-1. Load CSVs into the database by running [`ingestion_db.py`](./ingestion_db.py)
+1. Load CSVs into the database by running [`ingestion_db-checkpoint.py`](./ingestion_db-checkpoint.py)
 
-2. Generate vendor summary using [`get_vendor_summary.py`](./get_vendor_summary.py)
+2. Generate vendor summary using [`get_vendor_summary-checkpoint.py`](./get_vendor_summary-checkpoint.py)
 
 3. Run the notebooks:
-   - [`exploratory_data_analysis.ipynb`](./exploratory_data_analysis.ipynb)
-   - [`vendor_performance_analysis.ipynb`](./vendor_performance_analysis.ipynb)
+   - [`Exploratory Data Analysis-checkpoint.ipynb`](./Exploratory Data Analysis-checkpoint.ipynb)
+   - [`Vendor Performance Analysis-checkpoint.ipynb`](./Vendor Performance Analysis-checkpoint.ipynb)
 
 
 ## Final Recommendations
